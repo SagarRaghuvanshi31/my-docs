@@ -477,3 +477,202 @@ Restarting Docusaurus...
 [INFO] Starting the development server...
 [ERROR] Something is already running on port 3000.
 Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 7714996780a790f972d12b362411fe62c92f422c.
+error: Your local changes to the following files would be overwritten by merge:
+	docusaurus.log
+Please commit your changes or stash them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 7714996780a790f972d12b362411fe62c92f422c
+output, run
+$ git reset --hard
+to recover.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Pulling latest changes from GitHub...
