@@ -44,3 +44,12 @@ Restarting Docusaurus...
 [ERROR] Something is already running on port 3000.
 Setting up watches.  Beware: since -r was given, this may take a while!
 Watches established.
+./docs/ CREATE asus.md
+Changes detected! Pulling latest changes from GitHub...
+error: You have not concluded your merge (MERGE_HEAD exists).
+hint: Please, commit your changes before merging.
+fatal: Exiting because of unfinished merge.
+Restarting Docusaurus...
+Terminated
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
