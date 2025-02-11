@@ -1,0 +1,18 @@
+nohup: ignoring input
+Watching for changes in ./docs...
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+./docs/ CREATE gg.md
+Changes detected! Pulling latest changes from GitHub...
+error: You have not concluded your merge (MERGE_HEAD exists).
+hint: Please, commit your changes before merging.
+fatal: Exiting because of unfinished merge.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
