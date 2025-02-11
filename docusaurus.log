@@ -9,7 +9,4 @@ Restarting Docusaurus...
 > docusaurus start
 
 [INFO] Starting the development server...
-[SUCCESS] Docusaurus website is running at: http://localhost:3000/my-docs/
-[webpackbar] ℹ Compiling Client
-[webpackbar] ✔ Client: Compiled successfully in 1.87s
-client (webpack 5.97.1) compiled successfully
+[ERROR] Something is already running on port 3000.
