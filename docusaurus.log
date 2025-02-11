@@ -1,0 +1,15 @@
+nohup: ignoring input
+Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+[INFO] Starting the development server...
+[SUCCESS] Docusaurus website is running at: http://localhost:3000/my-docs/
+[webpackbar] ℹ Compiling Client
+[webpackbar] ✔ Client: Compiled successfully in 1.87s
+client (webpack 5.97.1) compiled successfully
