@@ -53,3 +53,27 @@ Restarting Docusaurus...
 Terminated
 Setting up watches.  Beware: since -r was given, this may take a while!
 Watches established.
+./docs/ CREATE kggk.md
+Changes detected! Pulling latest changes from GitHub...
+error: You have not concluded your merge (MERGE_HEAD exists).
+hint: Please, commit your changes before merging.
+fatal: Exiting because of unfinished merge.
+Restarting Docusaurus...
+Terminated
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+./docs/ CREATE ankit.md
+Changes detected! Pulling latest changes from GitHub...
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Restarting Docusaurus...
+
+> my-docs@0.0.0 start
+> docusaurus start
+
+Terminated
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+[INFO] Starting the development server...
+[ERROR] Something is already running on port 3000.
