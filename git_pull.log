@@ -1,0 +1,5 @@
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+There are no candidates for merging among the refs that you just fetched.
+Generally this means that you provided a wildcard refspec which had no
+matches on the remote end.
