@@ -1,1 +1,3 @@
-fatal: unable to access 'https://github.com/SagarRaghuvanshi31/my-docs.git/': Could not resolve host: github.com
+From https://github.com/SagarRaghuvanshi31/my-docs
+ * branch            main       -> FETCH_HEAD
+Already up to date.
